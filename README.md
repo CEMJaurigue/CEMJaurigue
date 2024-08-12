@@ -1,5 +1,6 @@
 <h1>Hi, I'm Curt! <br/><a> Let's connect in </a> <a href="www.linkedin.com/in/curt-ericson-jaurigue-43232423b">linkedin</a>!! </h1>
 
+
 <h2>Software Development Projects:</h2>
 <!-- SAMPLE LINK 
 <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -7,6 +8,7 @@
 -->
 <!--
 
+<h2>Certification:</h2>
 
 Here are some ideas to get you started:
 
