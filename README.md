@@ -1,7 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Curt! <br/><a> Let's connect in</a> <a href="www.linkedin.com/in/curt-ericson-jaurigue-43232423b">linkedin</a>, </h1>
 
+<h2>Software Development Projects:</h2>
+<!-- SAMPLE LINK 
+<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+-->
 <!--
-**CEMJaurigue/CEMJaurigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
