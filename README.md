@@ -6,9 +6,10 @@
 <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 -->
-<!--
 
 <h2>Certification:</h2>
+
+<!--
 
 Here are some ideas to get you started:
 
